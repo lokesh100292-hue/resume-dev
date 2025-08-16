@@ -140,12 +140,6 @@ export default function App(){
             <h1 className="text-3xl md:text-4xl font-black leading-tight">AI‑assisted Resume Parsing, Scoring & Shortlisting</h1>
             <p className="mt-3 text-white/80">Upload resumes (single or bulk), score against global job descriptions, and generate company‑format resumes. Built for recruitment teams.</p>
             <div className="mt-5 flex flex-wrap gap-2">
-              <span className="pill pill-1">Angular</span>
-              <span className="pill pill-2">FastAPI</span>
-              <span className="pill pill-3">Vector DB</span>
-              <span className="pill pill-4">Azure</span>
-              <span className="pill pill-1">Guardrails</span>
-              <span className="pill pill-2">Anonymize</span>
               <span className="pill pill-3">Duplicate Detection</span>
             </div>
           </div>
